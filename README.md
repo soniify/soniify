@@ -1,5 +1,3 @@
-
-<img width="400" height="400" alt="IMG_0177" src="https://github.com/user-attachments/assets/c41c62cf-2dc2-4a8d-a7c3-4e0221688232" />
-
-                    rynn  /  soni
-          ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+ <img align="middle" width="500" height="600" alt="IMG_0179" src="https://github.com/user-attachments/assets/d40a346a-206f-4e65-977e-d64ecc4a51ac" /> ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+ 
+ ⠀ ⠀               

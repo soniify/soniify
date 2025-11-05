@@ -1,4 +1,5 @@
    <img align="center" width="700" height="800" alt="IMG_0195" src="https://github.com/user-attachments/assets/23cc66bb-a0f5-495c-8df7-83217595d3a4" />
 
-
-  <a align="center" href="https://soniinet.carrd.co" target="_blank">carrd</a>  
+ <div class="center-text">
+    <a href="https://soniinet.carrd.co">carrd</a>
+ </div>

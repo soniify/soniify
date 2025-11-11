@@ -1,4 +1,7 @@
-   <img align="center" width="700" height="800" alt="IMG_0195" src="https://github.com/user-attachments/assets/23cc66bb-a0f5-495c-8df7-83217595d3a4" />
+ʀʏɴɴ | sᴏɴɪ ⌣ ғɪʟɪᴘɪɴᴏ
+
+<img width="500" height="500" alt="IMG_0260" src="https://github.com/user-attachments/assets/7c70e56f-5d03-4c49-8b67-7e3d007e3cac" />
+
 
  <div class="center-text">
     <a href="https://soniinet.carrd.co">carrd</a>

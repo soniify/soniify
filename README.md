@@ -6,3 +6,5 @@
  <div class="center-text">
     <a href="https://soniinet.carrd.co">carrd</a>
  </div>
+
+![](https://komarev.com/ghpvc/?username=soniify&color=grey)
